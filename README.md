@@ -1,6 +1,6 @@
 ## Hi, I'm Ashwin!
 
-Staff Engineer at [Charlie Health](https://www.charliehealth.com), with a [BFA in Music Technology & the Digital Arts](https://mtiid.calarts.edu/). Previous work at [ChowNow](https://get.chownow.com/), [sweetgreen](https://www.sweetgreen.com/), and [Philosophie](https://philosophie.is).
+Engineering Manager at [Charlie Health](https://www.charliehealth.com), with a [BFA in Music Technology & the Digital Arts](https://mtiid.calarts.edu/). Previous work at [ChowNow](https://get.chownow.com/), [sweetgreen](https://www.sweetgreen.com/), and [Philosophie](https://philosophie.is).
 
 I'm an empathetic engineering leader and coder with a passion for building high-performing, happy teams and solving problems through technology.
 
